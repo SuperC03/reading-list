@@ -13,7 +13,7 @@
     "react-scripts": "3.2.0",
     "typescript": "3.7.2"
   },
-  "homepage": "git@github.com:SuperC03/reading-list",
+  "homepage": "https://confident-benz-ee5924.netlify.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
