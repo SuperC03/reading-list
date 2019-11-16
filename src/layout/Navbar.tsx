@@ -5,7 +5,7 @@ const Navbar: React.FC = () => {
     const { books } = useContext(BookContext);
     return (
         <div className="navbar">
-            <h1>Ninja Reading List</h1>
+            <h1>Coli-Reading List</h1>
             <p>Currently You Have { `${books.length} ${books.length !== 1 ? 'books' : 'book'}` }</p>
         </div>
     );

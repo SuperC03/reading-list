@@ -15,7 +15,7 @@ const BookList: React.FC = () => {
             </ul>
         </div>
     ) : (
-        <div className="empty">No Books to Read. Hello Free Time :)</div>
+        <div className="empty">No Books to Display</div>
     );
 }
 
